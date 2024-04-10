@@ -1,4 +1,4 @@
-# Hanzi Writer Data
+# Vividize Hanzi Writer Data
 
 View a live-demo of this data at [chanind.github.io/hanzi-writer-data](https://chanind.github.io/hanzi-writer-data)
 
